@@ -32,12 +32,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Informations</title>
 </head>
 <body>
   <div class=texto>
       <center>
-  <h1>AJOUTER DES ELEVES</h1>
+  <h1>Vos informations:</h1>
     <form action="modif2.php" method="post" >
         <table border="1">
          

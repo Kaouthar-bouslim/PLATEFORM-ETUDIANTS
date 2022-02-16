@@ -14,6 +14,9 @@
    body{
      background-color: darkcyan;
    }
+  a{
+     color: cyan;
+   }
 
 </style>
 <!DOCTYPE html>

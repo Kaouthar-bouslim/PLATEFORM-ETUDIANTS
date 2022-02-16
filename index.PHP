@@ -9,7 +9,7 @@
 <!--===============================================================================================-->	
 <link rel="icon" type="image/png" href="images/favicon.ico"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">

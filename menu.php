@@ -29,11 +29,14 @@
 </head>
 <body>
 
-  <div class=texto>
+   <div class=texto>
    <center>
-     <h1>Bienvenue Dans le Site D'ENSA de Tanger</h1>
-      <p>Vous trouvrez ici la liste des étudiants de l'ensat ainsi leurs informations.</p>
-  </center>
+     <h1>Bienvenue Dans le Site De l'ENSA de Tanger</h1>
+     <br>
+      <p  >Vous pouvez consulter la liste des étudiants ainsi leurs informations en cliquant sur le nom du promo (ex : GINF1 , GSEA2 ...).</p>
+      <p >Pour plus d'informations sur les fillières et leurs modules , cliquer sur les noms des fillières (ex: GINF , GIL...) .</p>
+
+    </center>
 </div>
 </body>
 </html>
